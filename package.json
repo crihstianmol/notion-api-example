@@ -1,0 +1,25 @@
+{
+  "name": "notion-api",
+  "version": "1.0.0",
+  "description": "Notion API is a project created by Crihstian Molina, it is an example of how to connect to Notion API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crihstianmol/notion-api-example.git"
+  },
+  "keywords": [
+    "Notion",
+    "NodeJS",
+    "Express",
+    "API"
+  ],
+  "author": "Crihstian Molina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crihstianmol/notion-api-example/issues"
+  },
+  "homepage": "https://github.com/crihstianmol/notion-api-example#readme"
+}
